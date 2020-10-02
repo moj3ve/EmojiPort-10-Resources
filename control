@@ -1,7 +1,6 @@
 Package: com.ps.emojiport10resources
 Name: EmojiPort Resources (iOS 10+)
 Depends: firmware (>= 10.0)
-Conflicts: com.ps.emojiportwt (<= 1.2.4-2), com.ps.emojiportpe (<= 1.0.2)
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Necessary resources for EmojiPort iOS 10 and higher.
