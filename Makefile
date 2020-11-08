@@ -1,4 +1,4 @@
-PACKAGE_VERSION = 1.1~b1
+PACKAGE_VERSION = 1.2
 
 include $(THEOS)/makefiles/common.mk
 
